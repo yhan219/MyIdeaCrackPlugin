@@ -7,7 +7,7 @@ import javassist.CtClass;
 import java.io.ByteArrayInputStream;
 import java.security.ProtectionDomain;
 
-public class RequestFastTransformer implements MyTransformer {
+public class FastRequestTransformer implements MyTransformer {
 
 
     @Override

@@ -15,7 +15,7 @@ public class MyIdeaCrackPlugin implements PluginEntry {
     @Override
     public void init(Environment environment, PluginConfig config) {
         transformers.add(new RainbowBracketsTransformer());
-        transformers.add(new RequestFastTransformer());
+        transformers.add(new FastRequestTransformer());
     }
 
     @Override
