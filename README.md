@@ -14,7 +14,7 @@
  
 本插件需要配合 https://gitee.com/ja-netfilter/ja-netfilter/releases/tag/2022.2.0 使用
 
-下载 [MyIdeaCrack.jar](https://github.com/starxg/RainbowBracketsCrack/releases) 对应的版本放到`ja-netfilter`目录的`plugins-jetbrains` 子目录下。
+下载 [MyIdeaCrack.jar](https://github.com/yhan219/MyIdeaCrackPlugin/releases) 对应的版本放到`ja-netfilter`目录的`plugins-jetbrains` 子目录下。
 
 # 参考
 - https://github.com/starxg/RainbowBracketsCrack
