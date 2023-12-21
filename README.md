@@ -10,6 +10,9 @@
 
 使用本软件和技术将被视为您已经完全接受本免责声明的所有条款和条件。如果您不同意本免责声明的任何部分，请勿使用本软件和技术。
 
+# 可使用插件
+查看[releases](https://github.com/yhan219/MyIdeaCrackPlugin/releases)
+
 # 使用方法
  
 本插件需要配合 https://gitee.com/ja-netfilter/ja-netfilter/releases/tag/2022.2.0 使用
